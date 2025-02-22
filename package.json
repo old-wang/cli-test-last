@@ -1,5 +1,5 @@
 {
-  "name": "@wangyao-test/wang-cli",
+  "name": "@wangyao1994/wang-cli",
   "private": true,
   "workspaces": [
     "packages/*"
