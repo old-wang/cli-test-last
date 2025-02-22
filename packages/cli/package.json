@@ -1,6 +1,6 @@
 {
   "name": "@wangyao1994/cli-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "脚手架demo最终cli",
   "author": "old-wang <445320537@qq.com>",
   "homepage": "",
@@ -21,8 +21,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@wangyao1994/cli-test-init": "^0.0.1",
-    "@wangyao1994/cli-test-utils": "^0.0.1",
+    "@wangyao1994/cli-test-init": "^0.0.2",
+    "@wangyao1994/cli-test-utils": "^0.0.2",
     "chalk": "^5.4.1",
     "commander": "^13.1.0",
     "dirname-filename-esm": "^1.1.2",
