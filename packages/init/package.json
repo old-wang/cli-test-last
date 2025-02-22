@@ -1,6 +1,6 @@
 {
   "name": "@wangyao1994/cli-test-init",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "初始化相关",
   "author": "old-wang <445320537@qq.com>",
   "homepage": "",
@@ -17,8 +17,8 @@
     "test": "node ./__tests__/init.test.js"
   },
   "dependencies": {
-    "@wangyao1994/cli-test-command": "^0.0.0",
-    "@wangyao1994/cli-test-utils": "^0.0.0",
+    "@wangyao1994/cli-test-command": "^0.0.1",
+    "@wangyao1994/cli-test-utils": "^0.0.1",
     "ejs": "^3.1.10",
     "execa": "^9.5.2",
     "fs-extra": "^11.3.0",

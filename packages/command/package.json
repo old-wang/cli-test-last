@@ -1,6 +1,6 @@
 {
   "name": "@wangyao1994/cli-test-command",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "通用comamnd，所有command继承它",
   "author": "old-wang <445320537@qq.com>",
   "homepage": "",
