@@ -26,5 +26,8 @@
     "ora": "^8.2.0",
     "path-exists": "^5.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
 }
